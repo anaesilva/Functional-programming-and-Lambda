@@ -8,6 +8,9 @@ import java.util.Locale;
 
 public class Main {
     public static void main(String[] args) {
+//        Fazer um programa que, a partir de uma lista de produtos, remova da
+//        lista somente aqueles cujo preço mínimo seja 100.
+
         Locale.setDefault(Locale.US);
         List<Product> list = new ArrayList<>();
 
